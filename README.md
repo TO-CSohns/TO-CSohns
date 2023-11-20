@@ -1,6 +1,6 @@
 # Christian Sohns
 
-Hi there 👋\
+Hi there 👋
 
 ### Projects
 Working on DIRS21 Widgets & Integrations.
